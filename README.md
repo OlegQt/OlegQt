@@ -6,4 +6,8 @@ ___
 [Telegram](https://t.me/Oleg_ven)
 [E-mail](mailto:Oleg.Vened@yandex.ru)
 ___
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/OlegQt"><img src="https://github-readme-stats.vercel.app/api?username=OlegQt&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OlegQt's GitHub stats" /></a>
+___
 > Сложнее всего начать действовать, все остальное зависит только от упорства
